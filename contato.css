@@ -34,7 +34,7 @@ body{
     width: 100%;
     height: 100vh; 
     background: #242424;
-    background: url('./imagem/foto_redonda_perfir_pequena.png');
+    background: url('imagem/CREATIVE_3.png');
     background-size: cover;
 }
 
@@ -94,7 +94,7 @@ a:hover{
 .container{
     width: 100%;
     height: 100vh;
-    background: url('./imagem/banner_foto_perfil.png');
+    background: url('imagem/foto_redonda.png');
     background-size: cover;
 }
 
@@ -118,10 +118,6 @@ a:hover{
 
 .icons ion-icon:hover{
     color: var(--cor7);
-}
-
-.icons ion-icon#instagram_icone:hover{
-    color: #8a3ab9;
 }
 
 .icons ion-icon#linkedin_icone:hover{
@@ -176,7 +172,7 @@ a:hover{
 section#sobre > .conteudo{
     width: 100%;
     height: 100vh;
-    background: url('./imagem/banner_imagem_2.png');
+    background: url('imagem/CREATIVE_2.png');
     background-size: cover;
     display: flex;
     justify-content: space-between;
@@ -248,20 +244,13 @@ section#sobre > .conteudo  .box-title  .b4{
     border-radius: 5px;
 }
 
-section#sobre > .conteudo  .box-title  .b5{
-    width: 80px;
-    height: 8px;
-    background: var(--cor6);
-    border-radius: 5px;
-}
-
 /* Portifólio */
 
 
 section#portifolio > .curriculo{
     width: 100%;
     height: 100vh;
-    background: url('./imagem/banner_03.png');
+    background: url('imagem/CREATIVE_3.png');
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -364,7 +353,7 @@ section#portifolio > .curriculo .cards{
 section#contato .agenda{
     width: 100%;
     height: 100vh;
-    background: url('./imagem/banner_03.png');
+    background: url('imagem/CREATIVE_3.png');
     background-size: cover;
 }
 
